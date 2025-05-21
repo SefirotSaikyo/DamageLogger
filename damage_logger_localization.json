@@ -1,0 +1,7 @@
+﻿{
+  "friendly_damage": "```🫂 {attackerNickname} ({attackerSteamId}) [{attackerRole}] ➜ {victimNickname} ({victimSteamId}) [{victimRole}] • {damage} урона • ⚠️ Friendly-fire! ({cause})```",
+  "pvp_damage":      "```⚔️ {attackerNickname} ({attackerSteamId}) [{attackerRole}] ➜ {victimNickname} ({victimSteamId}) [{victimRole}] • {damage} урона ({cause})```",
+  "death":           "```☠️ {victimNickname} ({victimSteamId}) [{victimRole}] погиб • Причина: {cause} • Убийца: {killerNickname} ({killerSteamId}) [{killerRole}]```",
+  "warhead_start":   "```💥 Боеголовка запущена! {playerNickname} ({playerSteamId}) [{playerRole}] • До взрыва: {timeLeft}сек```",
+  "warhead_stop":    "```🛑 Боеголовка остановлена! {playerNickname} ({playerSteamId}) [{playerRole}]```"
+}
